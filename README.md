@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek
 - 👀 I’m interested in Ruby on Rails
-- 🌱 I’m currently learning js, blockchain
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning javascript, blockchain
+- 💞️ I’m looking to collaborate on software
 - 📫 How to reach me 22bcs10117@gmail.com 
 
 <!---
